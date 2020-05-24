@@ -1,0 +1,12 @@
+{
+  "name": "first-docker",
+  "version": "0.1.0",
+  "description": "first docker",
+  "main": "index.js",
+  "repository": "https://github.com/phanthinhphu/first-docker.git",
+  "author": "<Phu-Phan>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
